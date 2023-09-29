@@ -39,199 +39,199 @@
             "$type": "global-token",
             "$description": "0.25rem",
             "$value": "12px"
-        }
-    },
-    "space": {
-        "sp-4": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.4}"
         },
-        "sp-6": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.6}"
-        },
-        "sp-8": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.8}"
-        },
-        "sp-10": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.10}"
-        },
-        "sp-12": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.12}"
-        },
-        "sp-14": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.14}"
-        },
-        "sp-16": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.16}"
-        },
-        "sp-20": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.20}"
-        },
-        "sp-24": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.24}"
-        },
-        "sp-28": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.28}"
-        },
-        "sp-36": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.36}"
-        },
-        "sp-44": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.44}"
-        },
-        "sp-48": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.48}"
-        },
-        "sp-56": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.56}"
-        },
-        "sp-64": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.64}"
-        },
-        "sp-72": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.72}"
-        },
-        "sp-88": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.88}"
-        },
-        "sp-112": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{global.112}"
-        },
-        "2x-small": {
-            "compact": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+        "space": {
+            "4": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.4}"
             },
-            "regular": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "6": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.6}"
             },
-            "big": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "8": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.8}"
-            }
-        },
-        "x-small": {
-            "compact": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            },
+            "10": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.10}"
             },
-            "regular": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "12": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.12}"
             },
-            "big": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "14": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.14}"
-            }
-        },
-        "small": {
-            "compact": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            },
+            "16": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.16}"
             },
-            "regular": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "20": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.20}"
             },
-            "big": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "24": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.24}"
-            }
-        },
-        "medium": {
-            "compact": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            },
+            "28": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.28}"
             },
-            "regular": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "36": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.36}"
             },
-            "big": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "44": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.44}"
-            }
-        },
-        "large": {
-            "compact": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            },
+            "48": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.48}"
             },
-            "regular": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "56": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.56}"
             },
-            "big": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "64": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.64}"
-            }
-        },
-        "x-large": {
-            "compact": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            },
+            "72": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.72}"
             },
-            "regular": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "88": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.88}"
             },
-            "big": {
-                "$type": "semantic-token",
-                "$description": "padding/marging/gap",
+            "112": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
                 "$value": "{global.112}"
+            },
+            "2x-small": {
+                "compact": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.4}"
+                },
+                "regular": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.6}"
+                },
+                "big": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.8}"
+                }
+            },
+            "x-small": {
+                "compact": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.10}"
+                },
+                "regular": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.12}"
+                },
+                "big": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.14}"
+                }
+            },
+            "small": {
+                "compact": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.16}"
+                },
+                "regular": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.20}"
+                },
+                "big": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.24}"
+                }
+            },
+            "medium": {
+                "compact": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.28}"
+                },
+                "regular": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.36}"
+                },
+                "big": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.44}"
+                }
+            },
+            "large": {
+                "compact": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.48}"
+                },
+                "regular": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.56}"
+                },
+                "big": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.64}"
+                }
+            },
+            "x-large": {
+                "compact": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.72}"
+                },
+                "regular": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.88}"
+                },
+                "big": {
+                    "$type": "semantic-token",
+                    "$description": "padding/marging/gap",
+                    "$value": "{space.112}"
+                }
             }
         }
     }
