@@ -1,257 +1,257 @@
 {
     "scale": {
         "0": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "0px"
         },
         "1": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "1px"
         },
         "2": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "2px"
         },
         "4": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "4px"
         },
         "6": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "6px"
         },
         "8": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "8px"
         },
         "10": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "10px"
         },
         "12": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "12px"
         },
         "14": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "14px"
         },
         "16": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "16px"
         },
         "20": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "20px"
         },
         "24": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "24px"
         },
         "28": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "28px"
         },
         "32": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "32px"
         },
         "36": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "36px"
         },
         "40": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "40px"
         },
         "44": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "44px"
         },
         "48": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "48px"
         },
         "56": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "56px"
         },
         "64": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "64px"
         },
         "72": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "72px"
         },
         "80": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "80px"
         },
         "88": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "88px"
         },
         "96": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "96px"
         },
         "112": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "112px"
         },
         "128": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "128px"
         },
         "144": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "144px"
         },
         "160": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "160px"
         },
         "176": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "176px"
         },
         "192": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "192px"
         },
         "208": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "208px"
         },
         "224": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "224px"
         },
         "240": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "240px"
         },
         "256": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "256px"
         },
         "282": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "282px"
         },
         "320": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "320px"
         },
         "384": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "384px"
         },
         "448": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "448px"
         },
         "480": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "480px"
         },
         "512": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "512px"
         },
         "576": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "576px"
         },
         "640": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "640px"
         },
         "704": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "704px"
         },
         "768": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "768px"
         },
         "896": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "896px"
         },
         "960": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "960px"
         },
         "1024": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "1024px"
         },
         "1152": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "1152px"
         },
         "1280": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "1280px"
         },
         "1536": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "1536px"
         },
         "1920": {
-            "$type": "scale-token",
+            "$type": "global-token",
             "$description": "0.25rem",
             "$value": "1920px"
         },
