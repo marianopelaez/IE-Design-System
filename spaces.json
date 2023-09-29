@@ -39,56 +39,56 @@
             "$type": "global-token",
             "$description": "0.25rem",
             "$value": "12px"
+        }
+    },
+    "sp": {
+        "4": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{scale.4px}"
         },
-        "sp": {
-            "4": {
-                "$type": "primitive-token",
-                "$description": "0.5rem",
-                "$value": "{scale.4px}"
+        "6": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{scale.6px}"
+        },
+        "8": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{scale.8px}"
+        },
+        "10": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{scale.10px}"
+        },
+        "12": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{scale.12px}"
+        },
+        "14": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{scale.14px}"
+        }
+    },
+    "space": {
+        "2x-small": {
+            "compact": {
+                "$type": "semantic-token",
+                "$description": "padding/marging/gap",
+                "$value": "{scale.sp.4px}"
             },
-            "6": {
-                "$type": "primitive-token",
-                "$description": "0.5rem",
-                "$value": "{scale.6px}"
+            "regular": {
+                "$type": "semantic-token",
+                "$description": "padding/marging/gap",
+                "$value": "{scale.sp.6px}"
             },
-            "8": {
-                "$type": "primitive-token",
-                "$description": "0.5rem",
-                "$value":"{scale.8px}"
-            },
-            "10": {
-                "$type": "primitive-token",
-                "$description": "0.5rem",
-                "$value": "{scale.10px}"
-            },
-            "12": {
-                "$type": "primitive-token",
-                "$description": "0.5rem",
-                "$value": "{scale.12px}"
-            },
-            "14": {
-                "$type": "primitive-token",
-                "$description": "0.5rem",
-                "$value":"{scale.14px}"
-            },
-            "space": {
-                "2x-small": {
-                    "compact": {
-                        "$type": "semantic-token",
-                        "$description": "padding/marging/gap",
-                        "$value": "{scale.sp.4px}"
-                    },
-                    "regular": {
-                        "$type": "semantic-token",
-                        "$description": "padding/marging/gap",
-                        "$value": "{scale.sp.6px}"
-                    },
-                    "big": {
-                        "$type": "semantic-token",
-                        "$description": "padding/marging/gap",
-                        "$value": "{scale.sp.8px}"
-                    }
-                }
+            "big": {
+                "$type": "semantic-token",
+                "$description": "padding/marging/gap",
+                "$value": "{scale.sp.8px}"
             }
         }
     }
