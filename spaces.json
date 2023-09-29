@@ -71,6 +71,66 @@
                 "$description": "0.5rem",
                 "$value":"{scale.14}"
             },
+            "16": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.16}"
+            },
+            "20": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.20}"
+            },
+            "24": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value":"{scale.24}"
+            },
+            "28": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.28}"
+            },
+            "36": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.36}"
+            },
+            "44": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value":"{scale.44}"
+            },
+            "48": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.48}"
+            },
+            "56": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.56}"
+            },
+            "64": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value":"{scale.64}"
+            },
+            "72": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.72}"
+            },
+            "88": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.88}"
+            },
+            "112": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value":"{scale.112}"
+            },
             "space": {
                 "2x-small": {
                     "compact": {
@@ -87,6 +147,91 @@
                         "$type": "semantic-token",
                         "$description": "padding/marging/gap",
                         "$value": "{scale.sp.8}"
+                    }
+                },
+                "x-small": {
+                    "compact": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.10}"
+                    },
+                    "regular": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.12}"
+                    },
+                    "big": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.14}"
+                    }
+                },
+                "small": {
+                    "compact": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.16}"
+                    },
+                    "regular": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.20}"
+                    },
+                    "big": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.24}"
+                    }
+                },
+                "medium": {
+                    "compact": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.28}"
+                    },
+                    "regular": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.36}"
+                    },
+                    "big": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.44}"
+                    }
+                },
+                "large": {
+                    "compact": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.48}"
+                    },
+                    "regular": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.56}"
+                    },
+                    "big": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.64}"
+                    }
+                },
+                "x-large": {
+                    "compact": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.72}"
+                    },
+                    "regular": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.88}"
+                    },
+                    "big": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.112}"
                     }
                 }
             }
