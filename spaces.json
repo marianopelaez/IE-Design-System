@@ -1,235 +1,237 @@
 {
-    "0": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "4px"
-    },
-    "1": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "1px"
-    },
-    "2": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "2px"
-    },
-    "4": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "4px"
-    },
-    "6": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "6px"
-    },
-    "8": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "8px"
-    },
-    "10": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "10px"
-    },
-    "12": {
-        "$type": "global-token",
-        "$description": "0.25rem",
-        "$value": "12px"
-    },
-    "space": {
+    "global": {
+        "0": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "1": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
+        },
+        "2": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
+        },
         "4": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{scale.4}"
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
         },
         "6": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{scale.6}"
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "6px"
         },
         "8": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{scale.8}"
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "8px"
         },
         "10": {
-            "$type": "primitive-token",
-            "$description": "0.5rem",
-            "$value": "{scale.10}"
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "10px"
         },
         "12": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "12px"
+        }
+    },
+    "space": {
+        "sp-4": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.12}"
+            "$value": "{global.4}"
         },
-        "14": {
+        "sp-6": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.14}"
+            "$value": "{global.6}"
         },
-        "16": {
+        "sp-8": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.16}"
+            "$value": "{global.8}"
         },
-        "20": {
+        "sp-10": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.20}"
+            "$value": "{global.10}"
         },
-        "24": {
+        "sp-12": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.24}"
+            "$value": "{global.12}"
         },
-        "28": {
+        "sp-14": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.28}"
+            "$value": "{global.14}"
         },
-        "36": {
+        "sp-16": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.36}"
+            "$value": "{global.16}"
         },
-        "44": {
+        "sp-20": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.44}"
+            "$value": "{global.20}"
         },
-        "48": {
+        "sp-24": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.48}"
+            "$value": "{global.24}"
         },
-        "56": {
+        "sp-28": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.56}"
+            "$value": "{global.28}"
         },
-        "64": {
+        "sp-36": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.64}"
+            "$value": "{global.36}"
         },
-        "72": {
+        "sp-44": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.72}"
+            "$value": "{global.44}"
         },
-        "88": {
+        "sp-48": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.88}"
+            "$value": "{global.48}"
         },
-        "112": {
+        "sp-56": {
             "$type": "primitive-token",
             "$description": "0.5rem",
-            "$value": "{scale.112}"
+            "$value": "{global.56}"
+        },
+        "sp-64": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{global.64}"
+        },
+        "sp-72": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{global.72}"
+        },
+        "sp-88": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{global.88}"
+        },
+        "sp-112": {
+            "$type": "primitive-token",
+            "$description": "0.5rem",
+            "$value": "{global.112}"
         },
         "2x-small": {
             "compact": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-4}"
+                "$value": "{global.4}"
             },
             "regular": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-6}"
+                "$value": "{global.6}"
             },
             "big": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-8}"
+                "$value": "{global.8}"
             }
         },
         "x-small": {
             "compact": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-10}"
+                "$value": "{global.10}"
             },
             "regular": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-12}"
+                "$value": "{global.12}"
             },
             "big": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-14}"
+                "$value": "{global.14}"
             }
         },
         "small": {
             "compact": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-16}"
+                "$value": "{global.16}"
             },
             "regular": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-20}"
+                "$value": "{global.20}"
             },
             "big": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-24}"
+                "$value": "{global.24}"
             }
         },
         "medium": {
             "compact": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-28}"
+                "$value": "{global.28}"
             },
             "regular": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-36}"
+                "$value": "{global.36}"
             },
             "big": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-44}"
+                "$value": "{global.44}"
             }
         },
         "large": {
             "compact": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-48}"
+                "$value": "{global.48}"
             },
             "regular": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-56}"
+                "$value": "{global.56}"
             },
             "big": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-64}"
+                "$value": "{global.64}"
             }
         },
         "x-large": {
             "compact": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-72}"
+                "$value": "{global.72}"
             },
             "regular": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-88}"
+                "$value": "{global.88}"
             },
             "big": {
                 "$type": "semantic-token",
                 "$description": "padding/marging/gap",
-                "$value": "{scale.sp-112}"
+                "$value": "{global.112}"
             }
         }
     }
