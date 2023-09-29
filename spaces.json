@@ -80,6 +80,181 @@
             "$description": "0.25rem",
             "$value": "12px"
         },
+        "44": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "48": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
+        },
+        "56": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
+        },
+        "64": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "72": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "6px"
+        },
+        "80": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "8px"
+        },
+        "88": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "10px"
+        },
+        "96": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "12px"
+        },
+        "112": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "128": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
+        },
+        "144": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
+        },
+        "160": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "176": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "6px"
+        },
+        "192": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "8px"
+        },
+        "208": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "10px"
+        },
+        "224": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "12px"
+        },
+        "240": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "256": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
+        },
+        "282": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
+        },
+        "320": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "384": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "6px"
+        },
+        "448": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "8px"
+        },
+        "480": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "10px"
+        },
+        "512": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "12px"
+        },
+        "576": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "640": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
+        },
+        "704": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
+        },
+        "768": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "896": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "6px"
+        },
+        "960": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "8px"
+        },
+        "1024": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "10px"
+        },
+        "1152": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "12px"
+        },
+        "1280": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
+        },
+        "1536": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
+        },
+        "1920": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
+        },
         "space": {
             "2x-small": {
                 "compact": {
