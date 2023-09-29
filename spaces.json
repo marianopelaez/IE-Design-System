@@ -1,271 +1,95 @@
 {
-    "id": "VariableCollectionId:44:141",
-    "name": "spaces",
-    "modes": {
-        "44:6": "regular",
-        "44:7": "compact",
-        "44:8": "big"
-    },
-    "variableIds": [
-        "VariableID:353:1444",
-        "VariableID:353:1383",
-        "VariableID:353:1380",
-        "VariableID:353:1446",
-        "VariableID:353:1384",
-        "VariableID:44:142"
-    ],
-    "variables": [
-        {
-            "id": "VariableID:44:142",
-            "name": "x-small",
-            "description": "",
-            "type": "FLOAT",
-            "valuesByMode": {
-                "44:6": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:a6aa84d57165f9fd4d38e408a4c21d467c7aa342/581:72"
-                },
-                "44:7": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:21a58c876e950bdc4d0c66e2581c53d34f978318/581:102"
-                },
-                "44:8": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:b438d0a05719636a206bd1a5cc95da26fa288373/581:81"
-                }
-            },
-            "resolvedValuesByMode": {
-                "44:6": {
-                    "resolvedValue": 12,
-                    "alias": "VariableID:a6aa84d57165f9fd4d38e408a4c21d467c7aa342/581:72",
-                    "aliasName": "scale/spacing/12"
-                },
-                "44:7": {
-                    "resolvedValue": 10,
-                    "alias": "VariableID:21a58c876e950bdc4d0c66e2581c53d34f978318/581:102",
-                    "aliasName": "scale/spacing/10"
-                },
-                "44:8": {
-                    "resolvedValue": 14,
-                    "alias": "VariableID:b438d0a05719636a206bd1a5cc95da26fa288373/581:81",
-                    "aliasName": "scale/spacing/14"
-                }
-            },
-            "scopes": [
-                "GAP"
-            ],
-            "hiddenFromPublishing": false,
-            "codeSyntax": {}
+    "scale": {
+        "0": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
         },
-        {
-            "id": "VariableID:353:1380",
-            "name": "small",
-            "description": "",
-            "type": "FLOAT",
-            "valuesByMode": {
-                "44:6": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:de30fb8a60560f0a60f1db28ba2751bd34dc44c7/581:30"
-                },
-                "44:7": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:18c3694c5f08cf73290d52dfcbb82e64b3dfc981/581:87"
-                },
-                "44:8": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:32a5195a1573e86519db99cf528b1530cd7702dd/581:26"
-                }
-            },
-            "resolvedValuesByMode": {
-                "44:6": {
-                    "resolvedValue": 20,
-                    "alias": "VariableID:de30fb8a60560f0a60f1db28ba2751bd34dc44c7/581:30",
-                    "aliasName": "scale/spacing/20"
-                },
-                "44:7": {
-                    "resolvedValue": 16,
-                    "alias": "VariableID:18c3694c5f08cf73290d52dfcbb82e64b3dfc981/581:87",
-                    "aliasName": "scale/spacing/16"
-                },
-                "44:8": {
-                    "resolvedValue": 24,
-                    "alias": "VariableID:32a5195a1573e86519db99cf528b1530cd7702dd/581:26",
-                    "aliasName": "scale/spacing/24"
-                }
-            },
-            "scopes": [
-                "GAP"
-            ],
-            "hiddenFromPublishing": false,
-            "codeSyntax": {}
+        "1": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "1px"
         },
-        {
-            "id": "VariableID:353:1383",
-            "name": "large",
-            "description": "",
-            "type": "FLOAT",
-            "valuesByMode": {
-                "44:6": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:52dfbbfbe7bdf91a00c982a86073c6f6d30d36d8/581:25"
-                },
-                "44:7": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:07958ab535054a789665686e5cb8b7fc9ab800bf/581:46"
-                },
-                "44:8": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:45b280b0c1c9797cfc2a2c1d28bbd070e444d6c6/581:42"
-                }
-            },
-            "resolvedValuesByMode": {
-                "44:6": {
-                    "resolvedValue": 56,
-                    "alias": "VariableID:52dfbbfbe7bdf91a00c982a86073c6f6d30d36d8/581:25",
-                    "aliasName": "scale/spacing/56"
-                },
-                "44:7": {
-                    "resolvedValue": 48,
-                    "alias": "VariableID:07958ab535054a789665686e5cb8b7fc9ab800bf/581:46",
-                    "aliasName": "scale/spacing/48"
-                },
-                "44:8": {
-                    "resolvedValue": 64,
-                    "alias": "VariableID:45b280b0c1c9797cfc2a2c1d28bbd070e444d6c6/581:42",
-                    "aliasName": "scale/spacing/64"
-                }
-            },
-            "scopes": [
-                "GAP"
-            ],
-            "hiddenFromPublishing": false,
-            "codeSyntax": {}
+        "2": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "2px"
         },
-        {
-            "id": "VariableID:353:1384",
-            "name": "x-large",
-            "description": "",
-            "type": "FLOAT",
-            "valuesByMode": {
-                "44:6": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:7192da573cd7b3eac3d085e08721b1bf2093653f/581:93"
-                },
-                "44:7": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:553638c237b9bb3effe481e3364e4356b4e7665b/581:59"
-                },
-                "44:8": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:297c05ac967ed7a24104183a50e6094c759dd2b4/581:65"
-                }
-            },
-            "resolvedValuesByMode": {
-                "44:6": {
-                    "resolvedValue": 88,
-                    "alias": "VariableID:7192da573cd7b3eac3d085e08721b1bf2093653f/581:93",
-                    "aliasName": "scale/spacing/88"
-                },
-                "44:7": {
-                    "resolvedValue": 72,
-                    "alias": "VariableID:553638c237b9bb3effe481e3364e4356b4e7665b/581:59",
-                    "aliasName": "scale/spacing/72"
-                },
-                "44:8": {
-                    "resolvedValue": 112,
-                    "alias": "VariableID:297c05ac967ed7a24104183a50e6094c759dd2b4/581:65",
-                    "aliasName": "scale/spacing/112"
-                }
-            },
-            "scopes": [
-                "GAP"
-            ],
-            "hiddenFromPublishing": false,
-            "codeSyntax": {}
+        "4": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "4px"
         },
-        {
-            "id": "VariableID:353:1444",
-            "name": "2x-small",
-            "description": "",
-            "type": "FLOAT",
-            "valuesByMode": {
-                "44:6": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:161fe85cd7d633b4ece7880c153615978796856f/581:43"
-                },
-                "44:7": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:e7683959280b6d37b1b4fedfbc4eebaff96c0ef9/581:28"
-                },
-                "44:8": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:b81e4b01b591b06252ed4e736cf2e3ede2d632e3/581:48"
-                }
-            },
-            "resolvedValuesByMode": {
-                "44:6": {
-                    "resolvedValue": 6,
-                    "alias": "VariableID:161fe85cd7d633b4ece7880c153615978796856f/581:43",
-                    "aliasName": "scale/spacing/6"
-                },
-                "44:7": {
-                    "resolvedValue": 4,
-                    "alias": "VariableID:e7683959280b6d37b1b4fedfbc4eebaff96c0ef9/581:28",
-                    "aliasName": "scale/spacing/4"
-                },
-                "44:8": {
-                    "resolvedValue": 8,
-                    "alias": "VariableID:b81e4b01b591b06252ed4e736cf2e3ede2d632e3/581:48",
-                    "aliasName": "scale/spacing/8"
-                }
-            },
-            "scopes": [
-                "GAP"
-            ],
-            "hiddenFromPublishing": false,
-            "codeSyntax": {}
+        "6": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "6px"
         },
-        {
-            "id": "VariableID:353:1446",
-            "name": "medium",
-            "description": "",
-            "type": "FLOAT",
-            "valuesByMode": {
-                "44:6": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:eae0569d519a11562826b396cb4d3035554334ff/581:96"
-                },
-                "44:7": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:c0eb878bf58b64d7f66158e815929142f737276f/581:89"
-                },
-                "44:8": {
-                    "type": "VARIABLE_ALIAS",
-                    "id": "VariableID:47da8950da6ccccfbf00800fde81f7d7b062f784/581:39"
-                }
+        "8": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "8px"
+        },
+        "10": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "10px"
+        },
+        "12": {
+            "$type": "global-token",
+            "$description": "0.25rem",
+            "$value": "12px"
+        },
+        "sp": {
+            "4": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.4px}"
             },
-            "resolvedValuesByMode": {
-                "44:6": {
-                    "resolvedValue": 36,
-                    "alias": "VariableID:eae0569d519a11562826b396cb4d3035554334ff/581:96",
-                    "aliasName": "scale/spacing/36"
-                },
-                "44:7": {
-                    "resolvedValue": 28,
-                    "alias": "VariableID:c0eb878bf58b64d7f66158e815929142f737276f/581:89",
-                    "aliasName": "scale/spacing/28"
-                },
-                "44:8": {
-                    "resolvedValue": 44,
-                    "alias": "VariableID:47da8950da6ccccfbf00800fde81f7d7b062f784/581:39",
-                    "aliasName": "scale/spacing/44"
-                }
+            "6": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.6px}"
             },
-            "scopes": [
-                "GAP"
-            ],
-            "hiddenFromPublishing": false,
-            "codeSyntax": {}
+            "8": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value":"{scale.8px}"
+            },
+            "10": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.10px}"
+            },
+            "12": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value": "{scale.12px}"
+            },
+            "14": {
+                "$type": "primitive-token",
+                "$description": "0.5rem",
+                "$value":"{scale.14px}"
+            },
+            "space": {
+                "2x-small": {
+                    "compact": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.4px}"
+                    },
+                    "regular": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.6px}"
+                    },
+                    "big": {
+                        "$type": "semantic-token",
+                        "$description": "padding/marging/gap",
+                        "$value": "{scale.sp.8px}"
+                    }
+                }
+            }
         }
-    ]
+    }
 }
